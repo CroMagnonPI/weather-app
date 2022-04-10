@@ -1,0 +1,30 @@
+ 
+  h1 {
+    font-size: 60px;
+  }
+  h2 {
+    font-size: 30px;
+  }
+  p {
+    margin: 0px;
+  }
+  .city-humid-perc {
+    text-align: right;
+  }
+  .temp-date-weatdesc {
+    text-align: left;
+  }
+  .cloud-emoji {
+    font-size: 65px;
+  }
+  .high-low {
+    font-size: 12px;
+  }
+  .weather-emoji {
+    font-size: 50px;
+  }
+  .farh-to-cel {
+    font-size: 15px;
+    position: relative;
+    top: -32px;
+  }
